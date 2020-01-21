@@ -1,6 +1,6 @@
 # Configuration
 
-SHELL = bash
+SHELL = zsh
 
 INFRASTRUCTURE = $(shell which pandoc || echo /usr/local/bin/pandoc)
 DIRECTORIES = output
@@ -31,10 +31,12 @@ OUTPUTS = \
 	attendees.jpeg \
 	bonita.png \
 	davide.png \
+	davide.jpeg \
 	giuseppe.png \
-	maital.png \
+	hidetake.png \
 	robert.png \
 	SEmotion19.pdf \
+	seoul.jpeg
 
 output/index.html:	website/index.md
 output/call.html:	website/call.md
@@ -44,6 +46,7 @@ output/keynote.html:	website/keynote.md
 output/invited_talk.html:	website/invited_talk.md
 output/past.html:	website/past.md
 SEmotion19.pdf:	website/SEmotion19.pdf
+
 
 # Targets
 

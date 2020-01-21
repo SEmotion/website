@@ -4,46 +4,37 @@
 
 <div class="photos">
 
-![[Bonita Sharif](mailto:bsharif@unl.edu)  
-University of  
-Nebraska—Lincoln  
-Lincoln, Nebraska, USA](bonita.png)
+![[Davide Fucci](mailto:davide.fucci@bth.se)
+Blekinge Institute of Technology
+Sweden
+&nbsp;](davide.jpeg)
 
-![[Davide Fucci](mailto:fucci@informatik.uni-hamburg.de)  
-University of Hamburg  
-Hamburg, Germany  
-&nbsp;](davide.png)
-
-![[Giuseppe Destefanis](mailto:giuseppe.destefanis@brunel.ac.uk)  
-Brunel University  
-London, UK  
-&nbsp;](giuseppe.png)
+![[Hidetake Uwano](mailto:uwano@info.nara-k.ac.jp)
+NARA Institute of Technology
+Japan
+&nbsp;](hidetake.jpg)
 
 </div>
 
 ## Program Committee
-
-*   Bram Adams, Polytechnique Montréal, Canada
-*   Raian Ali, Bournemouth University, United Kingdom
-*   Andrew Begel, Microsoft, USA
-*   Kelly Blincoe, The University of Auckland, New Zealand
-*   Fabio Calefato, University of Bari, Italy
-*   Prasun Dewan, The University of North Carolina at Chapel Hill, USA
-*   Fabian Fagerholm, University of Helsinki, Sweden
-*   Daniel Graziotin, University of Stuttgart, Germany
-*   Lucas Gren, Chalmers University of Technology and The University of Gothenburg, Sweden
-*   Eduard Groen, Fraunhofer IESE, Germany
-*   Emitza Guzman, University of Zurich, Switzerland
-*   Filippo Lanubile, University of Bari, Italy
-*   Seok-Won Lee, Ajou University, South Korea
-*   Walid Maalej, University of Hamburg, Germany
-*   Mika Mäntylä, University of Oulu, Finland
-*   Maleknaz Nayebi, Polytechnique Montréal, Canada
-*   Nicole Novielli, University of Bari, Italy
-*   Marco Ortu, University of Cagliari, Italy
-*   Chris Parnin, North Carolina State University, USA
-*   Ayushi Rastogi, Delft University of Technology, Netherlands
-*   David Redmiles, University of California, Irvine, USA
-*   Paige Rutner, Texas Tech University, USA
-*   Alexander Serebrenik, Eindhoven University of Technology, Netherlands
-*   Minhaz Zibran, University of New Orleans, USA
+* Mahnaz Behroozi, North Carolina State University, USA
+* Giuseppe Destefanis, Brunel University, United Kingdom
+* Alexander Serebrenik, Eindhoven University of Technology, The Netherlands
+* Nicole Novielli, University of Bari, Italy
+* Mika Mäntylä, University of Oulu, Finland
+* Ayushi Rastogi, Delft University of Technology, The Netherlands
+* Raian Ali, Hamad Bin Khalifa University, Qatar
+* Marco Ortu, University of Cagliari, Italy
+* Maleknaz Nayebi, Ecole Polytechnique de Montreal, Canada
+* Bruno C. da Silva, Cal Poly, USA
+* Seok-Won Lee, Ajou University, South Korea
+* Minhaz Zibran, University of Saskatchewan, Canada
+* Michał Wróbel, Gdansk University of Technology, Poland
+* Filippo Lanubile, University of Bari, Italy
+* Shinsuke Matsumoto, Osaka University, Japan
+* Eduard Groen, Fraunhofer, Germany
+* Bram Adams, Polytechnique Montréal, Canada
+* Andrew Begel, Microsoft, USA
+* Fabio Calefato, University of Bari, Italy
+* Daniel Graziotin, University of Stuttgart, Germany
+* Bonita Sharif, University of Nebraska-Lincoln, USA

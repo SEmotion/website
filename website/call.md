@@ -14,7 +14,7 @@ emotions, and to hold mutual commitment to the project goals. Recently,
 researchers started to study the role of affective computing and affective
 states in software engineering. However, contributions on this topic are
 currently presented and discussed in diverse conferences and workshops. This
-workshop follows on the third edition held at ICSE 2018, towards the
+workshop follows on the fourth edition held at ICSE 2019, towards the
 consolidation of an international, sustainable forum for researchers and
 practitioners interested in the role of affect in software engineering to meet,
 present, and discuss their work in progress. High-quality contributions about
@@ -62,6 +62,7 @@ limited to:
     management
 *   Emotion awareness in software design philosophies, development practices,
     and tools
+*   Emotion awareness of developers of different genders, cul-tures, ages
 *   Emotion awareness in cross-cultural teams in global software development
 *   Methodologies and standards
 *   Replications of prior studies
@@ -79,13 +80,14 @@ We invite three kinds of submissions:
 *   Posters (1-2&nbsp;pages) summarizing research
     projects, demos, techniques.
 
-Artifact and demo papers may be either long or short papers depending on the
-level of maturity they are at. We especially encourage evaluation of systems on
-publicly available benchmark datasets such as the [Jira
-dataset](https://doi.org/10.1145/2901739.2903505), [Stack Overflow gold standard
-on emotions](https://arxiv.org/abs/1803.02300), and sentiment analysis datasets.
+<!-- Artifact and demo papers may be either long or short papers depending on the -->
+<!-- level of maturity they are at. We especially encourage evaluation of systems on -->
+<!-- publicly available benchmark datasets such as the [Jira -->
+<!-- dataset](https://doi.org/10.1145/2901739.2903505), [Stack Overflow gold standard -->
+<!-- on emotions](https://arxiv.org/abs/1803.02300), and sentiment analysis datasets. -->
 
 <!-- https://link.springer.com/article/10.1007/s10664-017-9546-9#Sec7 -->
+We encourage the submission of negative results as well as studydesign which can be evaluated with the participants in a _live study_ session taking place during the workshop.
 
 Authors may use additional pages (up to 8&nbsp;total) for references.  All
 papers must be in English and must conform, at time of submission, to [the ICSE
@@ -93,7 +95,7 @@ formatting guidelines for Technical
 Research](https://www.ieee.org/conferences/publishing/templates.html). Papers
 must be submitted electronically, in PDF format. The submission site is hosted
 by EasyChair and can be accessed
-[here](https://easychair.org/conferences/?conf=semotion2019).
+[here](https://easychair.org/conferences/?conf=semotion20).
 
 Three members from the international program committee will review each
 submission. Papers will be evaluated based on their originality, relevance to
@@ -102,51 +104,54 @@ reviews will be accepted to be presented at the workshop. All accepted papers
 will be distributed to workshop participants and will be invited to be included
 in a workshop proceedings published in the ACM and IEEE CS Digital Libraries.
 
-You can download the PDF version of this CfP [here](SEmotion19.pdf).
+<!-- You can download the PDF version of this CfP [here](SEmotion19.pdf). -->
+
+## Live Studies
+More information coming soon!
 
 ## Dates
 
-*   Paper submissions: ~~1&nbsp;February 2019~~ 6&nbsp;February 2019
-*   Notification to authors: 1&nbsp;March 2019
-*   Camera-ready copies due: 15&nbsp;March 2019
-*   Workshop: 28&nbsp;May 2019
+*   Paper submissions: January 22, 2020
+*   Notification to authors: February 25, 2020
+*   Camera-ready copies due: March 16, 2020
+*   Workshop: May 24, 2019
 
 ## Organizers
 
-*   Bonita Sharif, University of Nebraska—Lincoln, USA
-*   Davide Fucci, University of Hamburg, Germany
-*   Giuseppe Destefanis, Brunel University London, UK
+*   Davide Fucci, Blekinge Institute of Technology, Sweden
+*   Hidetake Uwano, National Institute of Technology, Nara, Japan
 
-## Accepted Papers
+<!-- ## Accepted Papers -->
+<!--  -->
+<!-- (Preprints are available [here](program.html).) -->
+<!--  -->
+<!-- **Supporting Rapid Product Changes through Emotional Tracking** -->
+<!-- Patrick Mennig, Simon Andre Scherr, and Frank Elberzhager -->
+<!--  -->
+<!-- **Toward Usability Problem Identification Based on User Emotions Derived from Facial Expressions** -->
+<!-- Jan Ole Johanssen, Jan Philip Bernius, and Bernd Bruegge -->
+<!--  -->
+<!-- **EMTk — The Emotion Mining Toolkit** -->
+<!-- Fabio Calefato, Filippo Lanubile, Nicole Novielli, and Luigi Quaranta -->
+<!--  -->
+<!-- **Towards Recognizing the Emotions of Developers Using Biometrics: The Design of a Field Study** -->
+<!-- Daniela Girardi, Filippo Lanubile, Nicole Novielli, Luigi Quaranta, and Alexander Serebrenik -->
+<!--  -->
+<!-- **What Software Engineering can Learn from Research on Affect in Social Psychology** -->
+<!-- Lucas Gren, Per Lenberg, and Karolina Ljungberg -->
+<!--  -->
+<!-- **Fostering Positive Affects in Software Development Environments using Extended Reality** -->
+<!-- Rohit Mehra, Vibhu Saujanya Sharma, Vikrant Kaulgud, and Sanjay Podder -->
+<!--  -->
+<!-- **A Longitudinal Study on the Maintainers' Sentiment of a Large Scale Open Source Ecosystem** -->
+<!-- Isabella Ferreira, Kate Stewart, Daniel German, and Bram Adams -->
+<!--  -->
+<!-- **Emotions in Software Practice: Presentation vs. Coding** -->
+<!-- Ricardo Colomo-Palacios, Terje Samuelsen, and Cristina Casado-Lumbreras -->
+<!--  -->
+<!-- **Developers' Sentiment and Issue Reopening** -->
+<!-- Jonathan Cheruvelil and Bruno da Silva -->
+<!--  -->
 
-(Preprints are available [here](program.html).)
-
-**Supporting Rapid Product Changes through Emotional Tracking**  
-Patrick Mennig, Simon Andre Scherr, and Frank Elberzhager
-
-**Toward Usability Problem Identification Based on User Emotions Derived from Facial Expressions**  
-Jan Ole Johanssen, Jan Philip Bernius, and Bernd Bruegge
-
-**EMTk — The Emotion Mining Toolkit**  
-Fabio Calefato, Filippo Lanubile, Nicole Novielli, and Luigi Quaranta
-
-**Towards Recognizing the Emotions of Developers Using Biometrics: The Design of a Field Study**  
-Daniela Girardi, Filippo Lanubile, Nicole Novielli, Luigi Quaranta, and Alexander Serebrenik
-
-**What Software Engineering can Learn from Research on Affect in Social Psychology**  
-Lucas Gren, Per Lenberg, and Karolina Ljungberg
-
-**Fostering Positive Affects in Software Development Environments using Extended Reality**  
-Rohit Mehra, Vibhu Saujanya Sharma, Vikrant Kaulgud, and Sanjay Podder
-
-**A Longitudinal Study on the Maintainers' Sentiment of a Large Scale Open Source Ecosystem**  
-Isabella Ferreira, Kate Stewart, Daniel German, and Bram Adams
-
-**Emotions in Software Practice: Presentation vs. Coding**  
-Ricardo Colomo-Palacios, Terje Samuelsen, and Cristina Casado-Lumbreras
-
-**Developers' Sentiment and Issue Reopening**  
-Jonathan Cheruvelil and Bruno da Silva
-
-**Empirical Analysis of Affect of Merged Issues on GitHub**  
-Marco Ortu, Michele Marchesi, and Roberto Tonelli
+<!-- **Empirical Analysis of Affect of Merged Issues on GitHub** -->
+<!-- Marco Ortu, Michele Marchesi, and Roberto Tonelli -->
