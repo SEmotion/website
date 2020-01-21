@@ -62,7 +62,7 @@ limited to:
     management
 *   Emotion awareness in software design philosophies, development practices,
     and tools
-*   Emotion awareness of developers of different genders, cul-tures, ages
+*   Emotion awareness of developers of different genders, cultures, ages
 *   Emotion awareness in cross-cultural teams in global software development
 *   Methodologies and standards
 *   Replications of prior studies
@@ -87,12 +87,11 @@ We invite three kinds of submissions:
 <!-- on emotions](https://arxiv.org/abs/1803.02300), and sentiment analysis datasets. -->
 
 <!-- https://link.springer.com/article/10.1007/s10664-017-9546-9#Sec7 -->
-We encourage the submission of negative results as well as studydesign which can be evaluated with the participants in a _live study_ session taking place during the workshop.
+We encourage the submission of negative results as well as study design which can be evaluated with the participants in a _live study_ session taking place during the workshop.
 
-Authors may use additional pages (up to 8&nbsp;total) for references.  All
-papers must be in English and must conform, at time of submission, to [the ICSE
+All papers must be in English and must conform, at time of submission, to [the ICSE
 formatting guidelines for Technical
-Research](https://www.ieee.org/conferences/publishing/templates.html). Papers
+Research (see _How to submit_)](https://conf.researchr.org/track/icse-2020/icse-2020-papers#Call-for-Papers). Papers
 must be submitted electronically, in PDF format. The submission site is hosted
 by EasyChair and can be accessed
 [here](https://easychair.org/conferences/?conf=semotion20).
@@ -107,14 +106,51 @@ in a workshop proceedings published in the ACM and IEEE CS Digital Libraries.
 <!-- You can download the PDF version of this CfP [here](SEmotion19.pdf). -->
 
 ## Live Studies
-More information coming soon!
+
+This year, we would like to invite the workshop attendees to voluntarily engage in a "live study." A live study can be, for example, a (controlled) experiment, an (online) survey, a user study, a focus group relevant to the topics of the workshop.
+
+Live study proposals (max 6 pages) should address at least the following items.
+
+1) Plan and Design
+- Research goal
+- Research questions, including any hypothesis
+- Research method(s) (e.g., experiment, online survey, focus group study)
+- Population of interest (i.e., target of generalisation)
+- Description or profile of the subjects, such as experience, background, etc.
+- Study design (depending on the research methods)
+- Equipment and infrastructure needed for performing the study (PCs, software, flipcharts)
+- Type of data that will be collected
+- Type of analysis that will be carried out on the gathered data
+- Anticipated threats to the validity of the results and possible mitigation procedures
+- Ethical issues (e.g., informed consent, confidentiality and privacy, fair treatment of subjects)
+
+2) Relevance and Feasibility
+- Relevance of study for research and/or for practice
+- Benefits to the subjects of participating in the study, including incentives
+- Plan to make publicity of the study if selected, and to attract participants
+- Plant for disseminating preliminary results with the attendees after the workshop
+
+3) About the researchers
+- Record of past empirical studies performed by the submitters
+- Role of the proposed study in the submitter's research agenda (e.g., plans for replications, hypothesis based on the researcher's previous experience)
+
+Live study submissions will be reviewed based on:
+
+- Relevance to the workshop topics
+- Soundness and feasibility of the proposal
+- Potential for attracting a suitable number of participants
+- Impact on the advancement of the submitter's research plan
+
+A link to a complete description of the protocol must be included in the camera-ready version of accepted submissions.
+
+During the workshop, the authors of the accepted proposals will introduce their study to the participants and conduct it according to the proposed plan.
 
 ## Dates
 
-*   Paper submissions: January 22, 2020
+*   Paper submissions: January 29, 2020
 *   Notification to authors: February 25, 2020
 *   Camera-ready copies due: March 16, 2020
-*   Workshop: May 24, 2019
+*   Workshop: May 23, 2020
 
 ## Organizers
 
