@@ -33,9 +33,10 @@ OUTPUTS = \
 	davide.png \
 	davide.jpeg \
 	giuseppe.png \
+	hidetake.jpg \
 	hidetake.png \
 	robert.png \
-	SEmotion19.pdf \
+	SEmotion20.pdf \
 	seoul.jpeg
 
 output/index.html:	website/index.md
@@ -45,7 +46,7 @@ output/program.html:	website/program.md
 output/keynote.html:	website/keynote.md
 output/invited_talk.html:	website/invited_talk.md
 output/past.html:	website/past.md
-SEmotion19.pdf:	website/SEmotion19.pdf
+SEmotion20.pdf:	website/SEmotion20.pdf
 
 
 # Targets
@@ -56,7 +57,7 @@ all:	$(OUTPUTS:%=output/%)
 
 deploy:	all
 	(cd output; rm -rf .clone .git)
-	(cd output; git clone -q "git@github.com:SEmotion/$(YEAR).git" .clone)
+	(cd output; git clone -q "https://github.com/SEmotion/$(YEAR)" .clone)
 	(cd output; mv .clone/.git ./)
 	(cd output; rm -rf .clone)
 	(cd output; git config --local user.name "$(USERNAME)")
