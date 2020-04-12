@@ -36,6 +36,8 @@ OUTPUTS = \
 	hidetake.jpg \
 	hidetake.png \
 	robert.png \
+	preprint-paper8.pdf \
+	preprint-livestudy.pdf \
 	SEmotion20.pdf \
 	seoul.jpeg
 

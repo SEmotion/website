@@ -149,8 +149,8 @@ During the workshop, the authors of the accepted proposals will introduce their 
 
 *   Paper submissions: January 29, 2020
 *   Notification to authors: February 25, 2020
-*   Camera-ready copies due: March 16, 2020
-*   Workshop: May 23, 2020
+*   Camera-ready copies due: April 7, 2020
+*   Workshop: October 8–11, 2020 (exact day TBD)
 
 ## Organizers
 

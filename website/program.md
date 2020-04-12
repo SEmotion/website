@@ -4,6 +4,20 @@
 
 The program and keynote will be announced on this page.
 
+## Accepted Papers
+
+- _Miikka Kuutila_, _Mika Mäntylä_ and _Maëlick Claes_. Chat activity is a better predictor than chat sentiment on software developers productivity (short)
+- _Jil Klünder_, _Nils Prenner_, _Ann-Kathrin Windmann_, _Marek Stess_, _Michael Nolting_, _Fabian Kortum_, _Lisa Handke_, _Kurt Schneider_ and _Simone Kauffeld_. Do you just discuss or do you solve? Meeting Analysis in A Software Project at Early Stages ([pre-print](https://www.researchgate.net/publication/340342399_Do_You_Just_Discuss_or_Do_You_Solve_Meeting_Analysis_in_a_Software_Project_at_Early_Stages))
+- _Franci Suni-Lopez_, _Nelly Condori-Fernández_ and _Alejandro Catala_. Understanding implicit user feedback from user emotions: a case study in the ehealth domain ([pre-print](preprint-paper8.pdf))
+- _Selina Demi_, _Ricardo Colomo-Palacios_, _Mary Sánchez-Gordón_ and _Stig Henning Johansen_. Mapping human values and Scrum roles: a study on students' preferences ([pre-print](http://www.rcolomo.com/papers/367.pdf))
+- _Mahesh Venkataraman_ and _Kishore Durg_. Research idea on how language and symbols (semantics and semiotics) affect the emotions of Software Engineers (short)
+
+## Live Study
+SEmotion20 will feature a live study (more details about participations and logistics to be announced)
+
+_Franci Suni-Lopez_, _Angela Gabriela Mayhua-Quispe_, _Maria Fernanda Granda Juca_ and _Nelly Condori-Fernández_. How Do Negative Emotions Influence on the Conceptual Models Verification? ([pre-print](preprint-livestudy.pdf))
+
+
 <!-- <p style="text-align: center;">(SEmotion 2019 will be held in [the -->
 <!-- Sainte-Catherine Room on the Convention -->
 <!-- Floor](https://2019.icse-conferences.org/getImage/orig/ConventionFloor.png) of -->
