@@ -207,3 +207,7 @@ span.unbreakable {
 a, a:visited {
     color: #26b;
 }
+
+.even {
+  background-color: lightgrey
+}
